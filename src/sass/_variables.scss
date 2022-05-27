@@ -1,0 +1,29 @@
+
+
+$redd : #ffe600;
+
+$primary: #f0b31d;
+$info: #00beff;
+$success: #60C08E;
+$secondary: #818181;
+$dark: #364251;
+$light: #f1f2f1;
+
+
+
+
+$alert-border-radius: 1rem;
+$alert-margin-bottom: 0;
+$alert-bg-scale: -85%;
+$alert-border-scale: -0%;
+$alert-color-scale: -100%;
+
+$custom-colors: (
+  "primary": $primary,
+  "dark": $dark,
+  "light": $light,
+  "secondary": $secondary,
+  "info": $info,
+  "success": $success,
+  "redd" : $redd
+);
